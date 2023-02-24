@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/src" />
+          <root url="file://$MODULE_DIR$/untitled/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Downloads/selenium-java-4.8.1/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/Downloads/selenium-java-4.8.1/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-api-4.8.1.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-chrome-driver-4.8.1.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-chromium-driver-4.8.1.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-devtools-v85-4.8.1.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-devtools-v108-4.8.1.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-devtools-v109-4.8.1.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-devtools-v110-4.8.1.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-edge-driver-4.8.1.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-firefox-driver-4.8.1.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-http-4.8.1.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-ie-driver-4.8.1.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-java-4.8.1.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-json-4.8.1.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-manager-4.8.1.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-remote-driver-4.8.1.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-safari-driver-4.8.1.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-support-4.8.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-api-4.8.1-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-chrome-driver-4.8.1-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-chromium-driver-4.8.1-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-devtools-v85-4.8.1-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-devtools-v108-4.8.1-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-devtools-v109-4.8.1-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-devtools-v110-4.8.1-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-edge-driver-4.8.1-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-firefox-driver-4.8.1-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-http-4.8.1-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-ie-driver-4.8.1-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-json-4.8.1-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-manager-4.8.1-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-remote-driver-4.8.1-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-safari-driver-4.8.1-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/selenium-java-4.8.1/selenium-support-4.8.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
